@@ -1,0 +1,19 @@
+"CODE": {
+    "prefix": "bramhaa",
+    "body": [
+      "#include<iostream>",
+      "using namespace std;",
+      "class ",
+      "{",
+      "",
+      "",
+      "};",
+      "int main()",
+      "{",
+      "",
+      "",
+      "return 0;",
+      "}"
+    ],
+    "description": "CODE"
+  }
